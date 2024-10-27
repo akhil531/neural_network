@@ -78,3 +78,4 @@ You can find a **jupyter notebook** in the **tests** folder, it contains a simpl
 # 🙏 Credits
 
 * [**Amar Akhil**](https://github.com/akhil531) : Creator of the project.
+git 
